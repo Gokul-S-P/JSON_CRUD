@@ -1,0 +1,17 @@
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\obj\Debug\net7.0\json.CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\obj\Debug\net7.0\json.CRUD.AssemblyInfoInputs.cache
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\obj\Debug\net7.0\json.CRUD.AssemblyInfo.cs
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\obj\Debug\net7.0\json.CRUD.csproj.CoreCompileInputs.cache
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\bin\Debug\net7.0\json.CRUD.exe
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\bin\Debug\net7.0\json.CRUD.deps.json
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\bin\Debug\net7.0\json.CRUD.runtimeconfig.json
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\bin\Debug\net7.0\json.CRUD.dll
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\bin\Debug\net7.0\json.CRUD.pdb
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\bin\Debug\net7.0\Spectre.Console.dll
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\obj\Debug\net7.0\json.CRUD.csproj.AssemblyReference.cache
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\obj\Debug\net7.0\json.CRUD.csproj.CopyComplete
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\obj\Debug\net7.0\json.CRUD.dll
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\obj\Debug\net7.0\refint\json.CRUD.dll
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\obj\Debug\net7.0\json.CRUD.pdb
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\obj\Debug\net7.0\json.CRUD.genruntimeconfig.cache
+C:\DEV\C#\Track 2 Learning\json\json.CRUD\json.CRUD\obj\Debug\net7.0\ref\json.CRUD.dll
