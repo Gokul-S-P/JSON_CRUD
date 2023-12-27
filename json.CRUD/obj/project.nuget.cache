@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w351KAzsoS6bmQUkbrNED/EnSmH2uy9hXy2VQHdzFMqw/kjT2vDAHFJDUl+f3wpLV4aG5lvyLVP8Fvh7T7makw==",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\C#\\Track 2 Learning\\Json CRUD\\json.CRUD\\json.CRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GokulSP\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\GokulSP\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
